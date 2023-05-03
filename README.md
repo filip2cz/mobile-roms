@@ -28,7 +28,8 @@ We are sick of not receiving updates shortly after buying new phones. Sick of th
 ### [Ubuntu Touch](https://devices.ubuntu-touch.io/)  
 With Ubuntu Touch, we offer a truly unique mobile experience - a viable alternative to Android and iOS. We provide a free and open-source GNU/Linux-based mobile operating system. One that can be installed and used today. Ubuntu Touch is designed primarily for mobile devices. However, imagine connecting your mobile device to a monitor, mouse and keyboard and having it instantly transformed into a desktop experience. This is the goal of Convergence, an experimental feature for a unified experience on all devices. 
 
-### [Mobian](https://wiki.mobian.org/doku.php?id=install)
+### [Mobian](https://wiki.mobian.org/doku.php?id=install)  
+A Debian derivative for mobile devices.
 
 ### [Maedevu](https://maedevu.maemo.org/images/)
 
