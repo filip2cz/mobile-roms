@@ -35,7 +35,7 @@ A free and open-source operating system for various devices, based on the Androi
 Paranoid Android is a custom ROM that targets to extend or enhance the system and working of existing Android. The two most popular and notable features of this operating system are Halo and Pie. The Halo feature allows users to see notifications without leaving their current screen. On the other hand, Pie replaces the onscreen navigation button that stays away from the screen and allows users to swipe sideways to view the button.
 - i did not tested this, so I can't describe this one properly
 
-### [Pixel experience](https://get.pixelexperience.org/)  
+### [Pixel experience](https://get.pixelexperience.org/devices)  
 PixelExperience is an AOSP based ROM, with Google apps included and all Pixel goodies (launcher, wallpapers, icons, fonts, bootanimation).
 Our mission is to offer the maximum possible stability and security, along with essential and useful features for the proper functioning of the device.
 - i did not tested this, co I can't describe this one properly
