@@ -1,5 +1,6 @@
 # mobile-roms
-List of alternative android and non-android roms
+List of alternative android and non-android roms.  
+It's sorted by functionality, so if you don't know what you want, I recommend you click the link, see if your phone is supported and if not, try the link below and repeat.
 
 ## Android
 ### [/E/OS](https://doc.e.foundation/devices)  
