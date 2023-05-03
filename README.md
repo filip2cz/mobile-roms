@@ -22,7 +22,8 @@ A free and open-source operating system for various devices, based on the Androi
 Sailfish OS is a European alternative to dominating mobile operating systems, and the only mobile OS offering an exclusive licensing model for local implementations.
 On the market since 2013, and now already in its 4th generation, Sailfish OS offers a secure platform for trusted mobile solutions. With Sailfish OS you can also run Android apps with dedicated App Support solution.
 
-### [PostmarketOS](https://wiki.postmarketos.org/wiki/Devices)
+### [PostmarketOS](https://wiki.postmarketos.org/wiki/Devices)  
+We are sick of not receiving updates shortly after buying new phones. Sick of the walled gardens deeply integrated into Android and iOS. That's why we are developing a sustainable, privacy and security focused free software mobile OS that is modeled after traditional Linux distributions. With privilege separation in mind. Let's keep our devices useful and safe until they physically break!
 
 ### [Ubuntu Touch](https://devices.ubuntu-touch.io/)
 
