@@ -44,6 +44,13 @@ Our mission is to offer the maximum possible stability and security, along with 
 Evolution X is a flashable Custom ROM to bring a true Pixel feel to your Android Device at first glance, with many additional configurations at your disposal. We aim to provide frequent builds with monthly security patches from the latest aosp sources.
 - i did not tested this, co I can't describe this one properly
 
+### [Some other android roms](https://beebom.com/best-custom-roms-android-phones/)
+
+
+
+
+
+
 ## Linux based
 ### [SailfishOS](https://docs.sailfishos.org/Support/Supported_Devices/)  
 Sailfish OS is a European alternative to dominating mobile operating systems, and the only mobile OS offering an exclusive licensing model for local implementations.
@@ -71,7 +78,8 @@ Maemo Leste continues the legacy of Maemo. We aim to provide a free and open sou
 - android emulator included by default: no
 - free: yes
 
-## other usefull links
+## Other usefull links
+
 ### [Can My Phone Run Linux?](https://many.tuxphones.com/)
 
 ### [XDA developers forum](https://forum.xda-developers.com/)
