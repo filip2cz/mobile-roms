@@ -18,7 +18,9 @@ Paranoid Android is a custom ROM that targets to extend or enhance the system an
 A free and open-source operating system for various devices, based on the Android mobile platform.
 
 ## non-android
-### [SailfishOS](https://docs.sailfishos.org/Support/Supported_Devices/)
+### [SailfishOS](https://docs.sailfishos.org/Support/Supported_Devices/)  
+Sailfish OS is a European alternative to dominating mobile operating systems, and the only mobile OS offering an exclusive licensing model for local implementations.
+On the market since 2013, and now already in its 4th generation, Sailfish OS offers a secure platform for trusted mobile solutions. With Sailfish OS you can also run Android apps with dedicated App Support solution.
 
 ### [PostmarketOS](https://wiki.postmarketos.org/wiki/Devices)
 
