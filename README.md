@@ -44,7 +44,7 @@ Our mission is to offer the maximum possible stability and security, along with 
 Evolution X is a flashable Custom ROM to bring a true Pixel feel to your Android Device at first glance, with many additional configurations at your disposal. We aim to provide frequent builds with monthly security patches from the latest aosp sources.
 - i did not tested this, co I can't describe this one properly
 
-### [Some other android roms](https://beebom.com/best-custom-roms-android-phones/)
+### [More android roms](https://beebom.com/best-custom-roms-android-phones/)
 
 
 
