@@ -1,4 +1,4 @@
-# mobile-roms
+# List of mobile roms
 List of alternative android and non-android roms.  
 It's sorted by functionality, so if you don't know what you want, I recommend you click the link, see if your phone is supported and if not, try the link below and repeat.
 
