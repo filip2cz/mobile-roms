@@ -3,30 +3,30 @@ List of alternative mobile roms.
 It's sorted by functionality and usability for me (you can have different opinion), so if you don't know what you want, I recommend you click the link, see if your phone is supported and if not, try the link below and repeat.
 
 ## Android based
-### [/e/OS](https://doc.e.foundation/devices)  
-/e/OS is a complete mobile ecosystem which includes a mobile operating system (ROM) and online-services. The /e/OS project was launched at the end of 2017. It has historically been the first mobile OS to focus on deGoogling.
-- google things: no
-- security focuses: no
-- own ecosystem: yes
-- free: yes
-
 ### [GrapheneOS](https://grapheneos.org/faq#device-support)  
 GrapheneOS is a privacy and security focused mobile OS with Android app compatibility developed as a non-profit open source project. It's focused on the research and development of privacy and security technology including substantial improvements to sandboxing, exploit mitigations and the permission model. It was founded in 2014 and was formerly known as CopperheadOS.
-- google things: default no, but sandboxed if you want
+- degoogled: by default yes, but you can have sandboxed google play services if you want
 - security focuses: yes
 - own ecosystem: no
 - free: yes
 
+### [/e/OS](https://doc.e.foundation/devices)  
+/e/OS is a complete mobile ecosystem which includes a mobile operating system (ROM) and online-services. The /e/OS project was launched at the end of 2017. It has historically been the first mobile OS to focus on deGoogling.
+- degoogled: yes
+- security focuses: no
+- own ecosystem: yes
+- free: yes
+
 ### [CalyxOS](https://calyxos.org/install/)  
 CalyxOS is an Android mobile operating system that puts privacy and security into the hands of everyday users. Plus, proactive security recommendations and automatic updates take the guesswork out of keeping your personal data personal.
-- google things: no
+- degoogled: yes
 - security focuses: yes
 - own ecosystem: no
 - free: yes
 
 ### [LineageOS](https://wiki.lineageos.org/devices/)  
 A free and open-source operating system for various devices, based on the Android mobile platform.
-- google things: no
+- degoogled: yes
 - security focuses: no
 - own ecosystem: no
 - free: yes
