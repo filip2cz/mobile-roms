@@ -104,7 +104,7 @@ A Debian derivative for mobile devices.
 
 - list of supported devices: [here](https://wiki.mobian.org/doku.php?id=install)  
 
-### [Maemo Leste](https://maedevu.maemo.org/)
+### [Maemo Leste](https://maemo-leste.github.io/)
 Maemo Leste continues the legacy of Maemo. We aim to provide a free and open source Maemo experience on mobile phones and tablets like the Nokia N900, Motorola Droid 4, Motorola Bionic, Pinephone, Pinetab, Allwinner tablets and more!
 - android emulator included by default: no
 - free: yes
