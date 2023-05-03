@@ -5,7 +5,7 @@ It's sorted by functionality and usability for me (you can have different opinio
 ## Android based
 ### [GrapheneOS](https://grapheneos.org/)  
 GrapheneOS is a privacy and security focused mobile OS with Android app compatibility developed as a non-profit open source project. It's focused on the research and development of privacy and security technology including substantial improvements to sandboxing, exploit mitigations and the permission model. It was founded in 2014 and was formerly known as CopperheadOS.
-- degoogled: by default yes, but you can have sandboxed google play services if you want
+- degoogled: yes, but you can easily have sandboxed google play services if you want
 - security focuses: yes
 - own ecosystem: no
 - free: yes
