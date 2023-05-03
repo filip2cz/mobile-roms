@@ -1,6 +1,6 @@
 # List of mobile roms
 List of alternative mobile roms.  
-It's sorted by functionality, so if you don't know what you want, I recommend you click the link, see if your phone is supported and if not, try the link below and repeat.
+It's sorted by functionality and usability for me (you can have different opinion), so if you don't know what you want, I recommend you click the link, see if your phone is supported and if not, try the link below and repeat.
 
 ## Android based
 ### [/e/OS](https://doc.e.foundation/devices)  
