@@ -2,7 +2,7 @@
 List of alternative android and non-android roms.  
 It's sorted by functionality, so if you don't know what you want, I recommend you click the link, see if your phone is supported and if not, try the link below and repeat.
 
-## Android
+## Android based
 ### [/E/OS](https://doc.e.foundation/devices)  
 /e/OS is a complete mobile ecosystem which includes a mobile operating system (ROM) and online-services. The /e/OS project was launched at the end of 2017. It has historically been the first mobile OS to focus on deGoogling.
 
@@ -18,7 +18,7 @@ Paranoid Android is a custom ROM that targets to extend or enhance the system an
 ### [LineageOS](https://wiki.lineageos.org/devices/)  
 A free and open-source operating system for various devices, based on the Android mobile platform.
 
-## non-android
+## Linux based
 ### [SailfishOS](https://docs.sailfishos.org/Support/Supported_Devices/)  
 Sailfish OS is a European alternative to dominating mobile operating systems, and the only mobile OS offering an exclusive licensing model for local implementations.
 On the market since 2013, and now already in its 4th generation, Sailfish OS offers a secure platform for trusted mobile solutions. With Sailfish OS you can also run Android apps with dedicated App Support solution.
