@@ -31,8 +31,8 @@ With Ubuntu Touch, we offer a truly unique mobile experience - a viable alternat
 ### [Mobian](https://wiki.mobian.org/doku.php?id=install)  
 A Debian derivative for mobile devices.
 
-### [Maedevu](https://maedevu.maemo.org/images/)
-Welcome to the Maemo Leste website! Maemo Leste continues the legacy of Maemo. We aim to provide a free and open source Maemo experience on mobile phones and tablets like the Nokia N900, Motorola Droid 4, Motorola Bionic, Pinephone, Pinetab, Allwinner tablets and more!
+### [Maemo Leste](https://maedevu.maemo.org/images/)
+Maemo Leste continues the legacy of Maemo. We aim to provide a free and open source Maemo experience on mobile phones and tablets like the Nokia N900, Motorola Droid 4, Motorola Bionic, Pinephone, Pinetab, Allwinner tablets and more!
 
 ## other usefull links
 ### [Can My Phone Run Linux?](https://many.tuxphones.com/)
