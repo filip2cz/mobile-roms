@@ -44,7 +44,16 @@ Our mission is to offer the maximum possible stability and security, along with 
 Evolution X is a flashable Custom ROM to bring a true Pixel feel to your Android Device at first glance, with many additional configurations at your disposal. We aim to provide frequent builds with monthly security patches from the latest aosp sources.
 - i did not tested this, co I can't describe this one properly
 
-### [More android roms](https://beebom.com/best-custom-roms-android-phones/)
+### More android roms untested by me, but they may be cool
+[BlissRoms](https://blissroms.org/)  
+[Xtended](https://project-xtended.org/)  
+[Project ElixirOS](https://projectelixiros.com/download)  
+[PixelOS](https://pixelos.net/download)  
+[ArrowOS](https://www.arrowos.net/download)  
+[crDroid](https://crdroid.net/downloads)  
+[OmniROM](https://omnirom.org/#devices)  
+[Syberia OS](https://syberiaos.com/downloads)  
+[Potato project](https://potatoproject.co/)  
 
 
 
