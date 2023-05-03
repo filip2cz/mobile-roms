@@ -75,31 +75,41 @@ Evolution X is a flashable Custom ROM to bring a true Pixel feel to your Android
 
 
 ## Linux based
-### [SailfishOS](https://docs.sailfishos.org/Support/Supported_Devices/)  
+### [SailfishOS](https://sailfishos.org/)  
 Sailfish OS is a European alternative to dominating mobile operating systems, and the only mobile OS offering an exclusive licensing model for local implementations.
 On the market since 2013, and now already in its 4th generation, Sailfish OS offers a secure platform for trusted mobile solutions. With Sailfish OS you can also run Android apps with dedicated App Support solution.
 - android emulator included by default: yes
 - free: sort of - [learn more](https://shop.jolla.com/)
 
-### [PostmarketOS](https://wiki.postmarketos.org/wiki/Devices)  
+- list of supported devices: [here](https://docs.sailfishos.org/Support/Supported_Devices/)  
+
+### [PostmarketOS](https://postmarketos.org/)  
 We are sick of not receiving updates shortly after buying new phones. Sick of the walled gardens deeply integrated into Android and iOS. That's why we are developing a sustainable, privacy and security focused free software mobile OS that is modeled after traditional Linux distributions. With privilege separation in mind. Let's keep our devices useful and safe until they physically break!
 - android emulator included by default: no
 - free: yes
 
-### [Ubuntu Touch](https://devices.ubuntu-touch.io/)  
+- list of supported devices: [here](https://wiki.postmarketos.org/wiki/Devices)  
+
+### [Ubuntu Touch](https://ubuntu-touch.io/)  
 With Ubuntu Touch, we offer a truly unique mobile experience - a viable alternative to Android and iOS. We provide a free and open-source GNU/Linux-based mobile operating system. One that can be installed and used today. Ubuntu Touch is designed primarily for mobile devices. However, imagine connecting your mobile device to a monitor, mouse and keyboard and having it instantly transformed into a desktop experience. This is the goal of Convergence, an experimental feature for a unified experience on all devices.
 - android emulator included by default: no
 - free: yes
 
-### [Mobian](https://wiki.mobian.org/doku.php?id=install)  
+- list of supported devices: [here](https://devices.ubuntu-touch.io/)  
+
+### [Mobian](https://mobian.org/)  
 A Debian derivative for mobile devices.
 - android emulator included by default: no
 - free: yes
 
-### [Maemo Leste](https://maedevu.maemo.org/images/)
+- list of supported devices: [here](https://wiki.mobian.org/doku.php?id=install)  
+
+### [Maemo Leste](https://maedevu.maemo.org/)
 Maemo Leste continues the legacy of Maemo. We aim to provide a free and open source Maemo experience on mobile phones and tablets like the Nokia N900, Motorola Droid 4, Motorola Bionic, Pinephone, Pinetab, Allwinner tablets and more!
 - android emulator included by default: no
 - free: yes
+
+- list of supported devices: [here](https://maedevu.maemo.org/images/)  
 
 ## Other usefull links
 
