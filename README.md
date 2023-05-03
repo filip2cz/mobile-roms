@@ -6,7 +6,7 @@ It's sorted by functionality and usability for me (you can have different opinio
 ### [GrapheneOS](https://grapheneos.org/)  
 GrapheneOS is a privacy and security focused mobile OS with Android app compatibility developed as a non-profit open source project. It's focused on the research and development of privacy and security technology including substantial improvements to sandboxing, exploit mitigations and the permission model. It was founded in 2014 and was formerly known as CopperheadOS.
 - degoogled: yes, but you can easily have sandboxed google play services if you want
-- security focuses: yes
+- security focused: yes
 - own ecosystem: no
 - free: yes
 
@@ -15,7 +15,7 @@ GrapheneOS is a privacy and security focused mobile OS with Android app compatib
 ### [/e/OS](https://e.foundation/)  
 /e/OS is a complete mobile ecosystem which includes a mobile operating system (ROM) and online-services. The /e/OS project was launched at the end of 2017. It has historically been the first mobile OS to focus on deGoogling.
 - degoogled: yes
-- security focuses: no
+- security focused: no
 - own ecosystem: yes
 - free: yes
 
@@ -24,7 +24,7 @@ GrapheneOS is a privacy and security focused mobile OS with Android app compatib
 ### [CalyxOS](https://calyxos.org/)  
 CalyxOS is an Android mobile operating system that puts privacy and security into the hands of everyday users. Plus, proactive security recommendations and automatic updates take the guesswork out of keeping your personal data personal.
 - degoogled: yes
-- security focuses: yes
+- security focused: yes
 - own ecosystem: no
 - free: yes
 
@@ -33,7 +33,7 @@ CalyxOS is an Android mobile operating system that puts privacy and security int
 ### [LineageOS](https://lineageos.org/)  
 A free and open-source operating system for various devices, based on the Android mobile platform.
 - degoogled: yes
-- security focuses: no
+- security focused: no
 - own ecosystem: no
 - free: yes
 
