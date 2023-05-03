@@ -25,7 +25,8 @@ On the market since 2013, and now already in its 4th generation, Sailfish OS off
 ### [PostmarketOS](https://wiki.postmarketos.org/wiki/Devices)  
 We are sick of not receiving updates shortly after buying new phones. Sick of the walled gardens deeply integrated into Android and iOS. That's why we are developing a sustainable, privacy and security focused free software mobile OS that is modeled after traditional Linux distributions. With privilege separation in mind. Let's keep our devices useful and safe until they physically break!
 
-### [Ubuntu Touch](https://devices.ubuntu-touch.io/)
+### [Ubuntu Touch](https://devices.ubuntu-touch.io/)  
+With Ubuntu Touch, we offer a truly unique mobile experience - a viable alternative to Android and iOS. We provide a free and open-source GNU/Linux-based mobile operating system. One that can be installed and used today. Ubuntu Touch is designed primarily for mobile devices. However, imagine connecting your mobile device to a monitor, mouse and keyboard and having it instantly transformed into a desktop experience. This is the goal of Convergence, an experimental feature for a unified experience on all devices. 
 
 ### [Mobian](https://wiki.mobian.org/doku.php?id=install)
 
