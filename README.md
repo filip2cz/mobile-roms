@@ -126,6 +126,6 @@ Maemo Leste continues the legacy of Maemo. We aim to provide a free and open sou
 
 ### [XDA developers forum](https://forum.xda-developers.com/)
 
-### [Xiaomi MI unclock toop](https://mi-globe.com/download-xiaomi-mi-unlock-tool-all-versions/)
+### [Xiaomi MI unclock tool](https://en.miui.com/unlock/download_en.html)
 
 ### [ADB Drivers](https://androidadbdriver.com/)
