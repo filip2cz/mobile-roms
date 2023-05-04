@@ -9,6 +9,7 @@ GrapheneOS is a privacy and security focused mobile OS with Android app compatib
 - security focused: yes
 - own ecosystem: no
 - free: yes
+- app store included: no, but you can easily install sandboxed google play if you want
 
 - list of supported devices: [here](https://grapheneos.org/faq#device-support)  
 
@@ -18,6 +19,7 @@ GrapheneOS is a privacy and security focused mobile OS with Android app compatib
 - security focused: no
 - own ecosystem: yes
 - free: yes
+- app store included: yes
 
 - list of supported devices: [here](https://doc.e.foundation/devices)  
 
@@ -27,6 +29,7 @@ CalyxOS is an Android mobile operating system that puts privacy and security int
 - security focused: yes
 - own ecosystem: no
 - free: yes
+- app store included: no
 
 - list of supported devices: [here](https://calyxos.org/install/)  
 
@@ -36,6 +39,7 @@ A free and open-source operating system for various devices, based on the Androi
 - security focused: no
 - own ecosystem: no
 - free: yes
+- app store included: no
 
 - list of supported devices: [here](https://wiki.lineageos.org/devices/)  
 
