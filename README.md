@@ -1,6 +1,6 @@
 # List of mobile roms
 List of alternative mobile roms.  
-It's sorted by functionality and usability for me (you can have different opinion), so if you don't know what you want, I recommend you click the link, see if your phone is supported and if not, try the link below and repeat.
+It's sorted by functionality and usability for me (you can have different opinion). If there is any factual error regarding the description of the operating systems, feel free to correct me.
 
 ## Android based
 ### [GrapheneOS](https://grapheneos.org/)  
