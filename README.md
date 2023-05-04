@@ -120,3 +120,7 @@ Maemo Leste continues the legacy of Maemo. We aim to provide a free and open sou
 ### [Can My Phone Run Linux?](https://many.tuxphones.com/)
 
 ### [XDA developers forum](https://forum.xda-developers.com/)
+
+### [Xiaomi MI unclock toop](https://mi-globe.com/download-xiaomi-mi-unlock-tool-all-versions/)
+
+### [ADB Drivers](https://androidadbdriver.com/)
