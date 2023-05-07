@@ -72,6 +72,7 @@ Evolution X is a flashable Custom ROM to bring a true Pixel feel to your Android
 [OmniROM](https://omnirom.org/#devices)  
 [Syberia OS](https://syberiaos.com/downloads)  
 [Potato project](https://potatoproject.co/)  
+[DivestOS](https://divestos.org/)  
 
 
 
