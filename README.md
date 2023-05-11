@@ -143,7 +143,11 @@ Full Windows on mobile phone
 
 #### [ADB Drivers](https://androidadbdriver.com/)
 
-### Xiaomi
+### Google (Pixel, Nexus, ...)
+
+#### [[TUTORIAL] Restore stock Pixel/Nexus rom](https://developers.google.com/android/images)
+
+### Xiaomi (Redmi, Pocophone, ...)
 
 #### [Xiaomi MI unclock tool](https://en.miui.com/unlock/download_en.html)
 
@@ -152,3 +156,5 @@ Full Windows on mobile phone
 #### [[UNOFFICIAL] Xiaomi flash tool](https://xiaomiflashtool.com/)
 
 ### [[UNOFFICIAL] Xiaomi firmware](https://xiaomifirmwareupdater.com/)
+
+### [[TUTORIAL] Restore stock Xiaomi rom](https://forum.xda-developers.com/t/how-to-flash-a-stock-rom-alioth.4355797/)
