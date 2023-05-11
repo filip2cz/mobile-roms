@@ -2,6 +2,8 @@
 List of alternative mobile roms.  
 It's sorted by functionality and usability for me (you can have different opinion). If there is any factual error regarding the description of the operating systems, feel free to correct me.
 
+## [TABLE WITH LESS INFO, BUT easiest to read](https://github.com/filip2cz/mobile-roms/blob/main/README.md)
+
 ## Android based
 ### [GrapheneOS](https://grapheneos.org/)  
 GrapheneOS is a privacy and security focused mobile OS with Android app compatibility developed as a non-profit open source project. It's focused on the research and development of privacy and security technology including substantial improvements to sandboxing, exploit mitigations and the permission model. It was founded in 2014 and was formerly known as CopperheadOS.
