@@ -125,7 +125,7 @@ Maemo Leste continues the legacy of Maemo. We aim to provide a free and open sou
 [Tizen](https://www.tizen.org/)
 
 ## Other systems
-### [Lumia WOA](https://woa-project.github.io/LumiaWOA/)¨
+### [Lumia WOA](https://woa-project.github.io/LumiaWOA/)
 
 Full Windows phone
 
