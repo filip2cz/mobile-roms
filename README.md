@@ -127,7 +127,7 @@ Maemo Leste continues the legacy of Maemo. We aim to provide a free and open sou
 ## Other systems
 ### [Lumia WOA](https://woa-project.github.io/LumiaWOA/)
 
-Full Windows phone
+Full Windows on mobile phone
 
 - list of supported devices: [here](https://woa-project.github.io/LumiaWOA/status/#drivers-support) 
 
