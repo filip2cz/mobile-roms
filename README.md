@@ -2,7 +2,7 @@
 List of alternative mobile roms.  
 It's sorted by functionality and usability for me (you can have different opinion). If there is any factual error regarding the description of the operating systems, feel free to correct me.
 
-## [TABLE WITH LESS DETAILS, BUT EASIER TO READ](https://github.com/filip2cz/mobile-roms/blob/main/README.md)
+## [TABLE WITH LESS DETAILS, BUT EASIER TO READ](https://github.com/filip2cz/mobile-roms/blob/main/TABLE.md)
 
 ## Android based
 ### [GrapheneOS](https://grapheneos.org/)  
