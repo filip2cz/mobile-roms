@@ -149,6 +149,6 @@ Full Windows on mobile phone
 
 #### [Official Stock Xiaomi ROMS](http://new.c.mi.com/global/miuidownload/index)
 
-#### [[UNOFFICIAL] Xiaomi flash tool](https://www.xiaomiflash.com/)
+#### [[UNOFFICIAL] Xiaomi flash tool](https://xiaomiflashtool.com/)
 
 ### [[UNOFFICIAL] Xiaomi firmware](https://xiaomifirmwareupdater.com/)
