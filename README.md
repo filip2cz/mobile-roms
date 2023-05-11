@@ -137,11 +137,13 @@ Full Windows on mobile phone
 
 ### Universal
 
+#### [Android SDK Platform Tools (adb + fastboot)](https://developer.android.com/tools/releases/platform-tools)
+
+#### [ADB Drivers](https://androidadbdriver.com/)
+
 #### [Can My Phone Run Linux?](https://many.tuxphones.com/)
 
 #### [XDA developers forum](https://forum.xda-developers.com/)
-
-#### [ADB Drivers](https://androidadbdriver.com/)
 
 ### Google (Pixel, Nexus, ...)
 
