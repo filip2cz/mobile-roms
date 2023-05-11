@@ -133,10 +133,18 @@ Full Windows on mobile phone
 
 ## Other usefull links
 
-### [Can My Phone Run Linux?](https://many.tuxphones.com/)
+### Universal
 
-### [XDA developers forum](https://forum.xda-developers.com/)
+#### [Can My Phone Run Linux?](https://many.tuxphones.com/)
 
-### [Xiaomi MI unclock tool](https://en.miui.com/unlock/download_en.html)
+#### [XDA developers forum](https://forum.xda-developers.com/)
 
-### [ADB Drivers](https://androidadbdriver.com/)
+#### [ADB Drivers](https://androidadbdriver.com/)
+
+### Xiaomi
+
+#### [Xiaomi MI unclock tool](https://en.miui.com/unlock/download_en.html)
+
+#### [http://new.c.mi.com/global/miuidownload/index](Official Stock Xiaomi ROMS)
+
+#### [https://www.xiaomiflash.com/](Xiaomi flash tool)
