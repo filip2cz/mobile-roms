@@ -124,6 +124,13 @@ Maemo Leste continues the legacy of Maemo. We aim to provide a free and open sou
 ### More operating systems untested by me, but they may be cool
 [Tizen](https://www.tizen.org/)
 
+## Other systems
+### [Lumia WOA](https://woa-project.github.io/LumiaWOA/)¨
+
+Full Windows phone
+
+- list of supported devices: [here](https://woa-project.github.io/LumiaWOA/status/#drivers-support) 
+
 ## Other usefull links
 
 ### [Can My Phone Run Linux?](https://many.tuxphones.com/)
