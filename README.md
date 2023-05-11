@@ -157,6 +157,6 @@ Full Windows on mobile phone
 
 #### [[UNOFFICIAL] Xiaomi flash tool](https://xiaomiflashtool.com/)
 
-### [[UNOFFICIAL] Xiaomi firmware](https://xiaomifirmwareupdater.com/)
+#### [[UNOFFICIAL] Xiaomi firmware](https://xiaomifirmwareupdater.com/)
 
-### [[TUTORIAL] Restore stock Xiaomi rom](https://forum.xda-developers.com/t/how-to-flash-a-stock-rom-alioth.4355797/)
+#### [[TUTORIAL] Restore stock Xiaomi rom](https://forum.xda-developers.com/t/how-to-flash-a-stock-rom-alioth.4355797/)
