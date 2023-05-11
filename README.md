@@ -145,6 +145,8 @@ Full Windows on mobile phone
 
 #### [Xiaomi MI unclock tool](https://en.miui.com/unlock/download_en.html)
 
-#### [http://new.c.mi.com/global/miuidownload/index](Official Stock Xiaomi ROMS)
+#### [Official Stock Xiaomi ROMS](http://new.c.mi.com/global/miuidownload/index)
 
-#### [https://www.xiaomiflash.com/](Xiaomi flash tool)
+#### [[UNOFFICIAL] Xiaomi flash tool](https://www.xiaomiflash.com/)
+
+### [[UNOFFICIAL] Xiaomi firmware](https://xiaomifirmwareupdater.com/)
