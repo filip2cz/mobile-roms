@@ -123,6 +123,10 @@ Maemo Leste continues the legacy of Maemo. We aim to provide a free and open sou
 - android emulator included by default: no
 - free: yes
 
+## Smart Watch
+
+### [AsteroidOS](https://asteroidos.org/watches/)
+
 ### More operating systems untested by me, but they may be cool
 [Tizen](https://www.tizen.org/)
 
