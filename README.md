@@ -65,6 +65,7 @@ Evolution X is a flashable Custom ROM to bring a true Pixel feel to your Android
 - i did not tested this, co I can't describe this one properly 
 
 ### More android roms untested by me, but they may be cool
+[DivestOS](https://divestos.org/)  
 [BlissRoms](https://blissroms.org/)  
 [Xtended](https://project-xtended.org/)  
 [Project ElixirOS](https://projectelixiros.com/download)  
@@ -73,8 +74,6 @@ Evolution X is a flashable Custom ROM to bring a true Pixel feel to your Android
 [crDroid](https://crdroid.net/downloads)  
 [OmniROM](https://omnirom.org/#devices)  
 [Syberia OS](https://syberiaos.com/downloads)  
-[DivestOS](https://divestos.org/)  
-
 
 
 
