@@ -9,13 +9,14 @@
 
 |                  | supported devices | degoogled | security focuses | own ecosystem | free | appstore included by default |
 |------------------|-------------------|-----------|------------------|---------------|------|------------------------------|
-| GrapheneOS       | few               | 🤝         | ✅                | ❌             | ✅    | 🤝                            |
+| GrapheneOS       | few               | 🤝*        | ✅                | ❌             | ✅    | 🤝*                           |
 | /e/OS            | many              | ✅         | ❌                | ✅             | ✅    | ✅                            |
 | CalyxOS          | few               | ✅         | ✅                | ❌             | ✅    | ❌                            |
 | LineageOS        | many              | 🤝         | ❌                | ❌             | ✅    | ❔                            |
 | Paranoidandroid  | many              | ❔         | ❌                | ❔             | ✅    | ❔                            |
 | Pixel experience | many              | ❔         | ❌                | ❔             | ✅    | ❔                            |
 
+*GrapheneOS: you can install sanboxed Google Play
 ## Linux
 
 coming soon
