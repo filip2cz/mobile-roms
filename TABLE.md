@@ -7,16 +7,17 @@
 
 ## Android
 
-|                  | supported devices | degoogled | security focuses | own ecosystem | free | appstore included by default |
-|------------------|-------------------|-----------|------------------|---------------|------|------------------------------|
+|                  | supported devices | degoogled  | security focuses  | own ecosystem   | free   | appstore included by default  |
+|------------------|-------------------|-------------|-------------------|----------------|--------|-------------------------------|
 | GrapheneOS       | few               | 🤝*        | ✅                | ❌             | ✅    | 🤝*                           |
 | /e/OS            | many              | ✅         | ❌                | ✅             | ✅    | ✅                            |
 | CalyxOS          | few               | ✅         | ✅                | ❌             | ✅    | ❌                            |
-| LineageOS        | many              | 🤝         | ❌                | ❌             | ✅    | ❔                            |
+| LineageOS        | many              | 🤝*        | ❌                | ❌             | ✅    | ❔                            |
 | Paranoidandroid  | many              | ❔         | ❌                | ❔             | ✅    | ❔                            |
 | Pixel experience | many              | ❔         | ❌                | ❔             | ✅    | ❔                            |
 
 *GrapheneOS: you can install sanboxed Google Play
+*LineageOS: optional [google apps and services](https://wiki.lineageos.org/gapps/) available
 ## Linux
 
 coming soon

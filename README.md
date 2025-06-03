@@ -39,7 +39,7 @@ CalyxOS is an Android mobile operating system that puts privacy and security int
 A free and open-source operating system for various devices, based on the Android mobile platform.
 
 - list of supported devices: [here](https://wiki.lineageos.org/devices/)
-- degoogled: yes
+- degoogled: yes (optional [google apps and services](https://wiki.lineageos.org/gapps/) available)
 - security focused: no
 - own ecosystem: no
 - free: yes
